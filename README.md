@@ -1,1 +1,5 @@
-Hi, my name is Marco, im 23 yo and im starting to learn how to program. 
+I am a dedicated and aspiring programmer currently engaged in an ongoing programming course at IEFP. My journey commenced earlier this year, and I have since gained proficiency in a variety of programming languages, including vb.net, C++, SQL, and Python. My hands-on experience extends to the development of practical projects, such as a Point of Sale (POS) System for a restaurant using vb.net and the creation of a Django-based website.
+
+Committed to continuous learning, I have expanded my knowledge through targeted courses on Codecademy, mastering command line skills in bash and acquiring proficiency in bash scripting. In the realm of cybersecurity, I have successfully completed courses from Security Blue Team, covering 'Introduction to Vulnerability Management' and 'Open Source Intelligence Fundamentals.' Additionally, I have attained a solid foundation in networking by completing the Networking Basics course offered by Cisco.
+
+My GitHub repositories reflect my journey, showcasing a diverse range of projects that highlight my evolving skills in programming and cybersecurity. I am passionate about leveraging technology to solve real-world challenges and look forward to contributing meaningfully to the dynamic world of software development 
