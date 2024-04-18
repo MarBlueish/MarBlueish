@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently on an internship as a field IT on FEDEX<br>I have worked with the following technologies: <br><br>Languages:<br>VB<br>C++<br>Python<br>Java<br>JavaScript<br>C#<br>SQL<br><br>Frameworks:<br>ASP.NET<br>JSP (JavaServer Pages)<br>Java Spring<br>Node.js<br>Django<br><br>Operating Systems:<br>Linux (Kali, Debian, Ubuntu)<br><br>Databases:<br>SQL<br>MongoDB<br><br>Web Development:<br>HTML<br>CSS<br><br>Other Skills:<br>Technical Support<br><br>currently learning: <br>javascript, css.<br><br>Fun fact: <br>I started studying cybersecurity for fun on Tryhackme, but I got so involved that I kept studying. It's amazing how something that started as a hobby has turned into a passion!
+Currently on an internship as a field IT on FEDEX<br>
 
 
 ## 🌐 Socials:
