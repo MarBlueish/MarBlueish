@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently on an internship as a field IT on FEDEX<br>
+Cloud Computing and Network Administration<br>
 
 
 ## 🌐 Socials:
